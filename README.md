@@ -8,9 +8,7 @@
 - **Conference**: 2nd National Conference on Innovative Technologies and Computing Sciences (NCITCS-25)  
 - **ISBN**: 978-81-986654-4-7
 
-## 🔗 Download Paper
-[Click here to view the full paper (PDF)]https://drive.google.com/file/d/1FLo40FGS0jdVqhp580izbrfsBcu827Fb/view)
-
+🔗 View Paper: https://www.researchgate.net/publication/395359989_Magnetic_Field_Manipulation_of_Free_and_Bound_Electrons_for_Qubit_Design_in_Quantum_Computing
 ## 🧠 Abstract
 This paper introduces a novel scientific theory using magnetic field manipulation of both free and bound electrons to design stable and scalable qubits in quantum computing...
 
